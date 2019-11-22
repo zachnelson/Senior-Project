@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/Inventory.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/controller/Main.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/GameFigure.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/view/BarPanel.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/view/MainWindow.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/view/GamePanel.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/controller/KeyController.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/Upgrade.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/GameFigureState.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/controller/MouseController.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/view/CharaterSheet.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/GrenadeStateDone.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/view/StatsDisplay.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/controller/Animator.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/GrenadeState.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/Treasure.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/Laser.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/Barrel.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/GameData.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/model/WeaponInventory.java</file>
+            <file>file:/C:/Users/EZPAWN/Documents/UCO/capstone10/SDD_Project/src/controller/ButtonListener.java</file>
+        </group>
+    </open-files>
+</project-private>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/SplitterEnemy.java</file>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/Trail.java</file>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/TrailerEnemy.java</file>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/FreezerEnemy.java</file>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/DiggerEnemy.java</file>
+            <file>file:/C:/Users/Administrator/Google%20Drive/UCO/Fall%202018/SDD/Project/SDD_Project/src/model/GameData.java</file>
+        </group>
+    </open-files>
+</project-private>
+>>>>>>> 4aca0c53761698644cea5d13980be30e09028371
